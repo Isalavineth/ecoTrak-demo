@@ -90,7 +90,7 @@ Please do not attempt to use this demo as a working deployment without configuri
 ##  Contact & Team
 
 Developed as a group project by **Group CT07**  
-GTEC23032 Second Year Project – [University of Kelaniya]
+GTEC23032 Second Year Project – University of Kelaniya
 
 
 ###  Team Members
