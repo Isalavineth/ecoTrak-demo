@@ -68,7 +68,7 @@ In Sri Lanka, vehicle emission tests are conducted just once a year and are ofte
 
 ## ⚠ Demo Limitations
 
-- Firebase authentication is **disabled** — login won’t function
+- Firebase authentication is **disabled** - login won’t function
 - Realtime database integration is **not live**
 - The website may appear functional, but no real data is fetched
 - All sensitive API keys have been redacted
